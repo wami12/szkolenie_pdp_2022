@@ -1,1 +1,10 @@
-szkolenie_pdp_2022
+# Programowanie obiektowe w Python
+Rzeczywistość postrzegamy rozpoznając, nazywając i klasyfikując otaczające nas zjawiska i przedmioty. Od urodzenia uczymy się czym są i do czego służą. Postępując w ten sposób, jesteśmy w stanie łatwo i szybko określić z jaką rzeczą mamy do czynienia i co można z nią zrobić. Przywołując w myślach na przykład słowo "krzesło", wiemy, że jest to przedmiot, służący do siedzenia, wyposażony w siedzisko, oparcie i zazwyczaj cztery nogi. Może być wykonane z różnych materiałów, mieć różny kolor i funkję (biurowe, kuchenne itp.). Rozpatrujemy właściwości krzesła poprzez jego atrybuty (własności), co oznacza, że inny przedmiot o tych samych właściwościach najprawdopodobniej również będzie krzesłem. To znaczy, że możemy wyodrębnić zbiór przedmiotów, czyli obiektów o podobnych właściwościach, który określimy mianem klasy.
+
+Definicja obiektu w programowaniu jest analogią naszego postrzegania rzeczywistości i zbytnio od niej nie odbiega. Obiekty w programowaniu nie są jednak fizycznymi rzeczami, których moglibyśmy dotknąć. Są raczej modelami, zawierającymi algorytmy, które mogą realizować pewne funkcje (czynności). Formalnie obiekt w programowaniu to zbiór danych (pól) i powiązanych z nim zachowań bądź czynności (metod).
+
+Zorientowanie obiektowe, oznacza funkcjonalne ukierunkowanie na modelowanie obiektów. Jest to jedna z wielu technik stosowanych do modelowania złożonych systemów. W takim podejściu model definiuje się poprzez opisanie zbioru obiektów wchodzących we wzajemne interakcje poprzez ich dane i zachowanie.
+
+Spotkaliście się już być może z pojęciami takimi jak: analiza obiektowa, projektowanie obiektowe oraz programowanie obiektowe. Wszystkie te koncepcje łączy właśnie to, że są zorientowanie obiektowo. W rzeczywistości analiza, projektowanie i programowanie to etapy tworzenia oprogramowania. W całym tym procesie stosuje się więc spójną koncepcję opratą o obiekty, aby przejćie między etapami mogło być realizowane bez większych problemów.
+
+Niniejszy kurs stanowi wprowadzenie do programowania obiektowego w języku Python, które wpisuje się w nakreśloną powyżej koncepcję.
